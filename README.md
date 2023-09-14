@@ -44,8 +44,14 @@ Analisis pengelompokan berdasarkan musim, bulan, jam puncak, jam kerja, kondisi 
 ## Kesimpulan
 Hasil analisis data menunjukkan adanya hubungan antara suhu, cuaca, waktu, dan faktor lain dengan jumlah penyewaan sepeda. Informasi ini dapat digunakan untuk perencanaan dan pengelolaan penyewaan sepeda yang lebih efisien.
 
-Informasi Tambahan
+## Informasi Tambahan
 Aplikasi ini dibuat sebagai bagian dari Proyek Analisis Data oleh Ihya' Nashirudin Abrar. Silakan hubungi kami jika Anda memiliki pertanyaan atau komentar.
+
+
+## Streamlit Online
+https://bike-sharing-dataset-4hj6nabxfefovr4dwondc8.streamlit.app/
+
+![Alt text](image.png)
 
 
 
